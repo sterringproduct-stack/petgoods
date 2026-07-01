@@ -1,4 +1,4 @@
-const liffId = "20105673847VDFmpAY";
+const liffId = "2010567384-7VDFmpAy";
 
 async function main() {
     await liff.init({ liffId });
